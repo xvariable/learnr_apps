@@ -1,0 +1,12 @@
+name: calculator
+title: calculator
+username:
+account: julialenz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2499375
+bundleId: 3312593
+url: https://julialenz.shinyapps.io/calculator/
+when: 1593029335.16917
+asMultiple: FALSE
+asStatic: FALSE

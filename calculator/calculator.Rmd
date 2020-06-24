@@ -1,0 +1,23 @@
+---
+output: 
+  html_document:
+    includes:
+      in_header: test1.html
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE, exercise.cap = "calculator")
+```
+
+
+```{r 01-calculator, exercise = TRUE}
+1 + 1
+```
+
+```{r 01-calculator-solution}
+2 * 2
+```
+
+<div data-iframe-height></div>
